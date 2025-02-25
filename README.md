@@ -1,5 +1,6 @@
 ## Airline Analysis
 
+![](https://github.com/Alier0912/Airline_analysis_sql/blob/main/Airplane%20In%20Flight%2C%20Airplane%2C%20Flight%20PNG%20Transparent%20Image%20and%20Clipart%20for%20Free%20Download.jpeg)
 * This project contains an analysis of airline data, exploring flight routes, airport performance, and other key metrics.
 * Dive in to explore the insights!
 
